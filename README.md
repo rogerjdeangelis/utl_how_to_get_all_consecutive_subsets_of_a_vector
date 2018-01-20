@@ -1,0 +1,2 @@
+# utl_how_to_get_all_consecutive_subsets_of_a_vector
+How to get all consecutive subsets of a vector. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
